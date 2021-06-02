@@ -1,7 +1,7 @@
 # CSS-Animation
 
 ### Project 3 under HTML-CSS Suven Coding Internship
-You can view the live preview <a href="">Here</a>
+You can view the live preview <a href="https://shashwatbangar.github.io/CSS-Animation/">Here</a>
 
 <ul><li>
 In this simple project, I have been breaking apart some of the popular CSS3 design modules.</li>
